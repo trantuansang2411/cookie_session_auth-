@@ -135,7 +135,6 @@ cookie_session_auth/
 ├── package.json        # Dependencies và scripts
 ├── README.md          # Tài liệu dự án
 ├── views/             # Template files (nếu có)
-├── public/            # Static files (CSS, JS, images)
 └── images/            # Screenshots test
     ├── image.png      # Test đăng ký user
     ├── image-1.png    # Chi tiết user trong MongoDB
